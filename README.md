@@ -4,8 +4,7 @@
 
 
 ### Overview :book:
-App to manage maintenance calls. App to manage maintenance calls. This application was created for the purpose of studies.
-
+App para controle de chamados, onde o cliente/usuário faz uma solicitação de assistência ao TI. Utilizando React-Native, Expo, TypeScript e Firebase.  
 
 ### Stack
 
