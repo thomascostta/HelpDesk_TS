@@ -4,7 +4,7 @@
 
 
 ### Overview :book:
-App para controle de chamados, onde o cliente/usuário faz uma solicitação de assistência ao TI. Utilizando React-Native, Expo, TypeScript e Firebase.  
+App para controle de chamados, onde o cliente/usuário faz uma solicitação de assistência ao TI.
 
 ### Stack
 
